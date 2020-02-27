@@ -5,7 +5,6 @@ import org.apache.commons.lang3.StringUtils;
 
 public class StringContainsOnlyDigits {
 
-
     public boolean isStringContainsOnlyDigits (@NonNull String str) {
         if (StringUtils.isEmpty(str)) {
             return false;

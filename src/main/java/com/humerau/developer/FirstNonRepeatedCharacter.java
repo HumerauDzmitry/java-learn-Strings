@@ -36,7 +36,6 @@ public class FirstNonRepeatedCharacter {
         }
     }
 
-
     public static void main(String[] args){
         FirstNonRepeatedCharacter firstNonRepeatedCharacter = new FirstNonRepeatedCharacter();
         firstNonRepeatedCharacter.printResult("123451235");

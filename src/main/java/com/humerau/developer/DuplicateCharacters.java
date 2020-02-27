@@ -26,8 +26,6 @@ public class DuplicateCharacters {
         }
     }
 
-
-
     public static void main(String[] args) {
         DuplicateCharacters duplicateCharacters = new DuplicateCharacters();
         duplicateCharacters.printResult("qwertye");

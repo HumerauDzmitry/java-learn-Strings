@@ -29,7 +29,6 @@ public class AllPermutationsOfString {
         }
     }
 
-
     public static void main(String[] args) {
         AllPermutationsOfString allPermutationsOfString = new AllPermutationsOfString();
         allPermutationsOfString.printResult("12345");

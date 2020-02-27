@@ -8,7 +8,6 @@ import java.util.Collections;
 import static org.junit.jupiter.api.Assertions.*;
 
 class HighestOccurredCharacterInStringTest {
-
     HighestOccurredCharacterInString highestOccurredCharacterInString;
 
     @BeforeEach

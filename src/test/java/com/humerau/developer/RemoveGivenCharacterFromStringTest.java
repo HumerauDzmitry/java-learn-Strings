@@ -7,7 +7,6 @@ import java.util.Optional;
 import static org.junit.jupiter.api.Assertions.*;
 
 class RemoveGivenCharacterFromStringTest {
-
     RemoveGivenCharacterFromString removeGivenCharacterFromString;
 
     @BeforeEach

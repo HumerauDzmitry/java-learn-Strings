@@ -7,7 +7,6 @@ import java.util.Optional;
 import static org.junit.jupiter.api.Assertions.*;
 
 class GivenCharacterInStringTest {
-
     GivenCharacterInString givenCharacterInString;
 
     @BeforeEach

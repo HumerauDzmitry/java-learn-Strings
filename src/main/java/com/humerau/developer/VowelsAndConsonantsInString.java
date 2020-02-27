@@ -5,7 +5,6 @@ import org.apache.commons.lang3.StringUtils;
 
 public class VowelsAndConsonantsInString {
 
-
     public int[] getVowelsAndConsonantsInString (@NonNull String str) {
         int [] tempInt = new int[4];    //[0]-Vowels;   [1]-Consonants; [2]-Numbers; [3]-Other
         char tempCh;
